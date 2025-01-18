@@ -11,6 +11,7 @@
 	<groupId>com.ecommerce</groupId>
 	<artifactId>ecom</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>ecom</name>
 	<description>Spring Boot Ecommerce Project</description>
 	<url/>
